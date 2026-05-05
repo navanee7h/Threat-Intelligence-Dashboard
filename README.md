@@ -32,13 +32,13 @@ A SOC portfolio project that provides real-time threat analysis of IP addresses,
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/threat-intel-dashboard.git
-cd threat-intel-dashboard
+https://github.com/navanee7h/Threat-Intelligence-Dashboard.git
+cd Threat-Intelligence-Dashboard
 ```
 
 ### 2. Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### 3. Get your API keys
