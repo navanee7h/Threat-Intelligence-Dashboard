@@ -6,19 +6,6 @@ A real-time, multi-source threat intelligence platform built for SOC analyst wor
 
 ---
 
-## 🖥️ Dashboard Preview
-
-### IOC Analyzer
-![IOC Analyzer](screenshots/ioc_analyzer.png)
-
-### AWS GuardDuty Live Findings
-![GuardDuty](screenshots/guardduty.png)
-
-### CloudTrail Monitor
-![CloudTrail](screenshots/cloudtrail.png)
-
-> 📸 Add your own screenshots to a `/screenshots` folder in the repo
-
 ---
 
 ## ✨ Features
